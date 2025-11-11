@@ -28,6 +28,3 @@ Data Cleaning & Filtering
 
 Statistical Logic & Conditional Formatting
 
-📄 View the Full Report
-
-👉 Stock Market Analysis Dashboard (PDF)
